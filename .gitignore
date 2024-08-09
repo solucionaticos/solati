@@ -1,0 +1,12 @@
+# Dependencias de Composer
+/vendor/
+
+# Archivos de configuración de entorno
+.env
+
+# Archivos de configuración del IDE
+.idea/
+
+# Archivos de caché de Composer
+/composer.lock
+

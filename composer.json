@@ -1,0 +1,17 @@
+{
+    "name": "david/solati-php",
+    "description": "A sample PHP project",
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require-dev": {
+        "laravel/pint": "^1.17",
+        "phpstan/phpstan": "^1.11"
+    }
+}
